@@ -57,7 +57,7 @@ public class FruitCountOrder {
     }
   }
 
-  //sort by value
+  //sort by key
   public static class SortFruit extends WritableComparator{
 
       protected SortFruit() {
